@@ -1,0 +1,388 @@
+[
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551195685215,
+            "changeTime": 1551195685215,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551195685216,
+            "changeTime": 1551195685216,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551196037893,
+            "changeTime": 1551196037893,
+            "contentHash": "b7e5a768778e6550506fd65e2a80f11fc3e018a1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551197610385,
+            "changeTime": 1551197610385,
+            "isWorkspace": false,
+            "contentHash": "132cc234a137efcb85228f21b7f20dff26a4b708"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551195970667,
+            "changeTime": 1551195970667,
+            "contentHash": "f3f2352cf84ed995100462009188f97c55b99813",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.auradoc",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1551195970665,
+            "changeTime": 1551195970665,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.cmp",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.cmp",
+            "isDirectory": false,
+            "size": 1426,
+            "modifiedTime": 1551197344835,
+            "changeTime": 1551196072012,
+            "contentHash": "a6f317c70178c2a6047ce65ce902ef914811f383",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1551195970652,
+            "changeTime": 1551195970652,
+            "contentHash": "a5c0ef4e74675e5b92467caf7a932b1736d4d5b4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.css",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1551195970657,
+            "changeTime": 1551195970657,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.design",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1551195970667,
+            "changeTime": 1551195970667,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.svg",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPage.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1551195970664,
+            "changeTime": 1551195970664,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPageController.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPageController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1551195970654,
+            "changeTime": 1551195970654,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPageHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPageHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1551195970656,
+            "changeTime": 1551195970656,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPageRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\AccountDetailPage\\AccountDetailPageRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1551195970662,
+            "changeTime": 1551195970662,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\DemoPageData.cls",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\DemoPageData.cls",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1551196070167,
+            "changeTime": 1551196070167,
+            "contentHash": "e138b2f47a90ebd60342d710faf74c7b5422bf68",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\DemoPageData.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\DemoPageData.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1551196037893,
+            "changeTime": 1551196037893,
+            "contentHash": "e7668a231de4e49b7b8e9e55dd992671e74add1a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551195707806,
+            "changeTime": 1551195707806,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551195699203,
+            "changeTime": 1551195699203,
+            "contentHash": "8499f14caadb26edb7610391b24cea2d696a53e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1551197610398,
+            "changeTime": 1551197610398,
+            "contentHash": "fb00b186f9f430908850479941ef6d39385d7a74"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 88,
+            "modifiedTime": 1551197691533,
+            "changeTime": 1551197691533,
+            "contentHash": "10c77441ff7d7cff6473aa3755a297950ce70b88"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 250,
+            "modifiedTime": 1551197610389,
+            "changeTime": 1551197610389,
+            "contentHash": "67709ccc94c265dbf4592ceae56ada3b90982b56"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1551197610399,
+            "changeTime": 1551197610399,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1551197610394,
+            "changeTime": 1551197610394,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardApp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1551197610397,
+            "changeTime": 1551197610397,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardAppController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1551197610390,
+            "changeTime": 1551197610390,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardAppHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1551197610392,
+            "changeTime": 1551197610392,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardAppRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\VS Code\\LightingCardProj\\LightningCardComponents\\force-app\\main\\default\\aura\\LightningCardApp\\LightningCardAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1551197610396,
+            "changeTime": 1551197610396,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]
