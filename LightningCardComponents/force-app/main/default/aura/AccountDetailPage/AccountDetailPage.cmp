@@ -1,28 +1,79 @@
-<aura:component controller="DemoPageData" implements="lightning:actionOverride,force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+<aura:component controller="DemoPageData" implements="force:hasRecordId,lightning:actionOverride,force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction"
+    access="global">
+    <aura:attribute name="record" type="Account" />
+    <aura:attribute name="simpleRecord" type="Account" />
+    <aura:attribute name="recordError" type="String" />
+    <aura:attribute name="accountList" type="Account[]" />
+    <aura:attribute name="title" type="String" default="Goals"/>
+
+
+    <aura:handler name="init" value="this" action="{!c.doInit}" />
+    <div class="slds-p-around_small">
+            
     
-    <aura:attribute name="record" type="Account"/>
-    <aura:attribute name="simpleRecord" type="Account"/>
-    <aura:attribute name="recordError" type="String"/>
-    
-    <article class="slds-card">
+    <aura:iteration items="{!v.accountList}" var="con">
+            {!v.accountList.Status__c}
+    <article class="slds-card ">
         <div class="slds-card__header slds-grid">
             <header class="slds-media slds-media_center slds-has-flexi-truncate">
-                <div class="slds-box">
-                    <p>This is a regular-sized box.</p>
+                <div class="slds-media__figure">
+                    <lightning:icon iconName="action:goal" alternativeText="Approved" >
+
+                        <span class="slds-assistive-text">GOALS</span>
+                    </lightning:icon>
+                </div>
+                <div class="slds-media__body">
+                    <h2 class="slds-card__header-title">
+                        <a  class="slds-card__header-link slds-truncate" >
+                            <span>{!v.title}</span>
+                        </a>
+                    </h2>
+                </div>
+                <div class="slds-no-flex">
+                    
                 </div>
             </header>
         </div>
-        <lightning:icon iconName="action:goal" alternativeText="Approved" />
+        <div class="slds-card__body slds-card__body_inner"> THis will be the detail page 
+            {!v.accountList.Goal_Title_Field__c}</div>
         <footer class="slds-card__footer">
-            <a class="slds-card__footer-action" href="javascript:void(0);">View All
-                <span class="slds-assistive-text">Accounts</span>
+            <a class="slds-card__footer-action" >Status {!v.accountList.Status__c}
+                
             </a>
         </footer>
     </article>
-    <force:recordData aura:id="recordLoader"
-                      recordId="{!v.recordId}"
-                      targetFields="{!v.simpleRecord}"
-                      targetError="{!v.recordError}"
-                      />
+
+<br/>
+</aura:iteration>
+            
+    </div>
+    <!--
+    <lightning:card>
+        <aura:set attribute="title">
+            <lightning:icon iconName="action:goal" alternativeText="Approved" />
+            {! v.title }
+        </aura:set>
+        <aura:set attribute="footer">
+            <lightning:badge label="Tag1"/>
+            <lightning:badge label="Tag2"/>
+            <lightning:badge label="Tag3"/>
+        </aura:set>
+        Card Body (custom component)
+    </lightning:card>
+
+    <div class="slds-p-around_small">
+        <aura:iteration items="{!v.accountList}" var="con">
+                <lightning:card title="{!v.accountList.Name}" footer="{!v.accountList.Status__c}" iconName="standard:contact">
+                       
+                        <p class="slds-p-horizontal_small">
+    
+                            {!v.accountList.Status__c} &nbsp;&nbsp;&nbsp;{!v.accountList.Status__c} <br />
+                            {!v.accountList.Name}
+                        </p>
+                    </lightning:card>
+        </aura:iteration>
+        </div>
+        -->
+    <force:recordData aura:id="recordLoader" recordId="{!v.recordId}" targetFields="{!v.simpleRecord}" targetError="{!v.recordError}" />
     <lightning:formattedText title="Goal Title Field" value="{!v.simpleRecord.Goal_Title_Field__c}" />
 </aura:component>
